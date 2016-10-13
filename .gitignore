@@ -1,0 +1,5 @@
+*.py~
+C:\\nppdf32Log\\debuglog.txt
+*~
+*.pyc
+*__pycache__*
